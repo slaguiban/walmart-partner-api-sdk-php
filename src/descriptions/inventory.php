@@ -89,7 +89,7 @@
                 'file' => [
                     'required' => true,
                     'type' => 'object',
-                    'location' => 'postFile',
+                    'location' => 'multipart',
                 ],
             ],
         ],
